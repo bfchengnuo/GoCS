@@ -6,6 +6,9 @@ TBD
 ## 标准库
 常用的标准库的使用，参考 API：https://golang.google.cn/pkg/
 
+### fmt
+TBD
+
 ### strconv
 
 它主要实现对字符串和基本数据类型之间的转换，常用 API：
@@ -32,4 +35,7 @@ func ParseUint(s string, base int, bitSize int) (uint64, error)
 TBD
 
 ### crypto
+TBD
+
+### log
 TBD
