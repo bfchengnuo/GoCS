@@ -31,6 +31,21 @@ func ParseUint(s string, base int, bitSize int) (uint64, error)
 
 相比直接使用 `string()` 之类，它更安全，例如 Itoa 可以将整型数字转换为字符串的数字，而如果使用 string() 的话，就会被当作 ASCII，然后转成字符。
 
+### sort
+TBD
+
+### time
+TBD
+
+### io
+TBD
+
+### os
+TBD
+
+### net
+TBD
+
 ### bufio
 TBD
 
